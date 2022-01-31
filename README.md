@@ -1,2 +1,2 @@
 # Teste-Repositorio
-Apenas um teste de comit
+Apenas um teste de commit
